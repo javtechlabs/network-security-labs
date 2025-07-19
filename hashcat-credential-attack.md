@@ -25,9 +25,8 @@ Cybersecurity goal met from the CIA Triad: **Data Integrity**
 **b) MD5 Hash** *(Message Digest 5 — by Ron Rivest, 1991)*  
 - Produces a 128-bit value represented as a 32-character hexadecimal string  
 - Each hash string is the result of running a password through the MD5 hashing algorithm
-
-
-##Lab Environment/tools
+  
+## Lab Environment/tools
 
 1. **Kali-Linux 2025.1** (Installed on Virtual Box VM)
 
