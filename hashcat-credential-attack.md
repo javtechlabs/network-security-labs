@@ -151,7 +151,7 @@ This displays the following categories of options:
 
 > **Context:** The most relevant options for this hash attack SIM are:  
 > a) **MD5 Hash Mode**, referenced with option `0`  
-> b) **Attack Mode**, selected with the `-a` flag and the number `0`    
+> b) **Attack Mode**, selected with the `-a` flag and the code number `0`    
 	
 
 4. **Locate the `rockyou.txt` file** that will be used for this dictionary attack.  
