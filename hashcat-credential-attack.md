@@ -10,7 +10,7 @@ This lab demonstrates how easily exposed hashes can be exploited if technical co
 ## Objectives
 
 1. **Simulate credential-based attacks by using Hashcat** to crack MD5 hashes  
-2. Reinforce the value of technical *(type)* / preventive *(category)* controls such as:  
+2. Reinforce the value of technical *(control type)* / preventive *( control category)* controls such as:  
    - Complex password requirements  
    - Account lockout policies  
 
