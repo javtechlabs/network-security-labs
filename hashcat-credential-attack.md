@@ -5,7 +5,7 @@
 ## Cybersecurity Relevance
 
 Weak passwords and inadequate hash protections are common security vulnerabilities.  
-This lab demonstrates how easily exposed hashes can be exploited if technical controls — such as password complexity, proper salting, and secure hash key storage — are lacking.
+This lab demonstrates how easily exposed hashes can be exploited if technical controls such as password complexity, proper salting, and secure hash key storage are lacking.
 
 ## Objectives
 
