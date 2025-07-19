@@ -260,7 +260,7 @@ Speed.#1.........:  1852.0 kH/s (0.03ms)
 
 - This demonstrates the importance of **reducing the attack surface** by implementing strong technical controls:
   - Enforcing **password complexity**
-  - Applying **hash salting** (adding a random string before hashing)
+  - Applying **hash salting** (adding a random string before hashing to make the hash undeniable unique)
   - Securing **hash key storage**
 
 
