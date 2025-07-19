@@ -14,3 +14,4 @@ I hope you enjoy!
 ---
 
 ## 🔗 Labs
+[Hashcat Credential Attack Lab](hashcat-credential-attack.md)
