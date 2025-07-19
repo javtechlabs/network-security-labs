@@ -33,7 +33,7 @@ Cybersecurity goal met from the CIA Triad: **Data Integrity**
 2. **Linux command-line module used**: Hashcat (ready-to-use/ pre-installed on Kali-Linux)
 	- **Hashcat** is a Linux-based open source password cracking tool 
 
-	- *Use for both good and nefarious exploits by*:  	
+	- *Used for both good and nefarious exploits by*:  	
 		-**White Hat Hackers** (Authorized Pent Testers hired to explore vulnerabilities, 
 		   for the good, to improve security)
 
@@ -52,7 +52,6 @@ Cybersecurity goal met from the CIA Triad: **Data Integrity**
      - Hash collisions occur when the algorithm produces the same hash output for different inputs  
      - Collisions jeopardize the ability to verify data integrity
 
-HERE
  5. **Security Best Practice: Use SHA (Secure Hash Algorithm)**  
    - Replace deprecated algorithms with government-standard SHA-based hashing  
    - **NIST** (National Institute of Standards and Technology) published SHA-1 in 1995  
