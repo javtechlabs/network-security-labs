@@ -1,6 +1,6 @@
 # Security Lab Title: Using Hashcat to Crack Credentials
 
-**Keywords:** *Credential-based attacks, password policy, security controls, Hashcat*
+**Keywords:** *Credential-based attacks, password policy, security controls, password hash managment, hashcat*
 
 ## Cybersecurity Relevance
 
